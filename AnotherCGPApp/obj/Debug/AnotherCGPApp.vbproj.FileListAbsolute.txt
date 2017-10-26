@@ -1,0 +1,11 @@
+c:\users\aja\documents\visual studio 2015\Projects\AnotherCGPApp\AnotherCGPApp\bin\Debug\AnotherCGPApp.exe.config
+c:\users\aja\documents\visual studio 2015\Projects\AnotherCGPApp\AnotherCGPApp\bin\Debug\AnotherCGPApp.exe
+c:\users\aja\documents\visual studio 2015\Projects\AnotherCGPApp\AnotherCGPApp\bin\Debug\AnotherCGPApp.pdb
+c:\users\aja\documents\visual studio 2015\Projects\AnotherCGPApp\AnotherCGPApp\bin\Debug\AnotherCGPApp.xml
+c:\users\aja\documents\visual studio 2015\Projects\AnotherCGPApp\AnotherCGPApp\obj\Debug\AnotherCGPApp.vbprojResolveAssemblyReference.cache
+c:\users\aja\documents\visual studio 2015\Projects\AnotherCGPApp\AnotherCGPApp\obj\Debug\AnotherCGPApp.Form1.resources
+c:\users\aja\documents\visual studio 2015\Projects\AnotherCGPApp\AnotherCGPApp\obj\Debug\AnotherCGPApp.Resources.resources
+c:\users\aja\documents\visual studio 2015\Projects\AnotherCGPApp\AnotherCGPApp\obj\Debug\AnotherCGPApp.vbproj.GenerateResource.Cache
+c:\users\aja\documents\visual studio 2015\Projects\AnotherCGPApp\AnotherCGPApp\obj\Debug\AnotherCGPApp.exe
+c:\users\aja\documents\visual studio 2015\Projects\AnotherCGPApp\AnotherCGPApp\obj\Debug\AnotherCGPApp.xml
+c:\users\aja\documents\visual studio 2015\Projects\AnotherCGPApp\AnotherCGPApp\obj\Debug\AnotherCGPApp.pdb
